@@ -1,0 +1,2 @@
+# SpringbootMongoDb
+simple app
